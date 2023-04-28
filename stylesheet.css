@@ -9,3 +9,8 @@ h1 {
     font-style:normal;
   }
 
+img {
+  width: 400px,
+  height: auto
+}
+
