@@ -3,16 +3,15 @@
     src: url("css/font/BasierCircle-SemiBold.woff2") format("woff2"),
   }
 
-h1 {
+h1,h2,h3,p {
     font-family: 'Some font', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
   }
 
 img {
-  width: 200px,
-  height: auto
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
